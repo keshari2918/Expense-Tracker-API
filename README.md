@@ -63,5 +63,3 @@ Categories: `FOOD, TRANSPORT, RENT, UTILITIES, ENTERTAINMENT, HEALTH, SHOPPING, 
 - **`open-in-view=false`** and explicit `@Transactional` boundaries.
 - **Composite index** on `(user_id, expense_date)` for the most common query.
 
-## Future improvements
-Refresh tokens, roles (admin), recurring expenses, budgets with alerts, CSV export, Docker, Flyway migrations.
